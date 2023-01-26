@@ -32,3 +32,37 @@ C:\Users\SECL\Desktop\signalRDemo\signalRDemo\obj\Debug\net6.0\refint\signalRDem
 C:\Users\SECL\Desktop\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.pdb
 C:\Users\SECL\Desktop\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.genruntimeconfig.cache
 C:\Users\SECL\Desktop\signalRDemo\signalRDemo\obj\Debug\net6.0\ref\signalRDemo.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\appsettings.Development.json
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\appsettings.json
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\signalRDemo.staticwebassets.runtime.json
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\signalRDemo.exe
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\signalRDemo.deps.json
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\signalRDemo.runtimeconfig.json
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\signalRDemo.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\signalRDemo.pdb
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git file\signalR\signalRDemo\signalRDemo\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.csproj.AssemblyReference.cache
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.AssemblyInfoInputs.cache
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.AssemblyInfo.cs
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.csproj.CoreCompileInputs.cache
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.RazorAssemblyInfo.cache
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.RazorAssemblyInfo.cs
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\scopedcss\bundle\signalRDemo.styles.css
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\scopedcss\projectbundle\signalRDemo.bundle.scp.css
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.csproj.CopyComplete
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.dll
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\refint\signalRDemo.dll
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.pdb
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\signalRDemo.genruntimeconfig.cache
+D:\git file\signalR\signalRDemo\signalRDemo\obj\Debug\net6.0\ref\signalRDemo.dll

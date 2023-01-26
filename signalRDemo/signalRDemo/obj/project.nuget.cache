@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iwD7vR5OSz+Ppywmo7LK9DNJSswnmBekEepHi0zDmEv19wXIzRoLifVl+X4uBo86xkUuzNeEUiTsapJyutm5uA==",
+  "dgSpecHash": "jI7GNGXXf4zVss4B7Sn0+D4iXkhqTNtUSTiUtJtqBh5/dAsG0ENClrWlm2XhYpp5ow066idnhGsrI1FTAwcOmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SECL\\Desktop\\signalRDemo\\signalRDemo\\signalRDemo.csproj",
+  "projectFilePath": "D:\\git file\\signalR\\signalRDemo\\signalRDemo\\signalRDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SECL\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\SECL\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
